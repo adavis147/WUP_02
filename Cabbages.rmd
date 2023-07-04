@@ -71,4 +71,8 @@ The P-value = 0.00000003405, is so small that I must reject $H_0$ and conclude t
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhaps are related for some other reason.  Watch the chapter 6 videos from the George Town videos collection.!-->
 
+The original question posed was whether there was a difference in vitamin C content based on the cultivation methods c52 and C39. 
 
+Based on the T=Test, we found that cultivation method c52 has demonstrated a higher vitamin C content in the cabbages than c39.
+
+Therefore, I must recommend cultivation method c52 for harvesting cabbages with a higher vitamin C content.
